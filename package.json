@@ -2,7 +2,7 @@
   "name": "com.chromy0430.utils",
   "version": "1.0.0",
   "displayName": "Chromy Utils",
-  "description": "유용한 함수들 모음 \n\n [기능]\n\n\t① 3dToIcon : 3D 모델링 프리펩을 원하는 방향으로 PNG 파일을 생성합니다.\n",
+  "description": "유용한 함수들 모음 \n\n [기능]\n\n\t 1. 3dToIcon : 3D 모델링 프리펩을 원하는 방향으로 PNG 파일을 생성합니다.\n",
   "unity": "2022.3",
   "author": {
     "name": "chromy0430"
