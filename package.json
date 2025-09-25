@@ -1,0 +1,14 @@
+{
+  "name": "com.chromy0430.utils",
+  "version": "1.0.0",
+  "displayName": "개인목적의 유틸모음",
+  "description": "개인목적의 유틸모음\n\n
+  [기능]\n\n\t① 3dToIcon : 3D 모델링 프리펩을 원하는 방향으로 PNG 파일을 생성합니다.\n
+  ",
+  "unity": "2023.1",
+  "keywords": [],
+  "author": {
+    "name": "Chromy0430",
+    "email": "Chromy0430@gmail.com"
+  }  
+}
